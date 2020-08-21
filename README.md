@@ -1,4 +1,7 @@
 # docker-wine-py2-py3
+
+**DEPRECATED:** in favour of [ikus060/python:wine-py2](https://github.com/ikus060/docker-python) images.
+
 This repository contains a Dockerfile to create a docker container with
 Python 2.7 and Python 3 for Windows running on wine for cross compiling with
 py2exe and Visual Stution 2008 Express to build external modules.
